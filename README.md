@@ -13,5 +13,4 @@
 ## Installation
 
 Before running the project</br>
-`source venv/bin/activate`</br>
-`pip install flask`
+`source venv/bin/activate && pip install -r requirements.txt`
